@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Maciej\\Desktop\\zadania\\Zadanie-1\\PESEL\\PESEL\\PESEL.csproj",
+      "projectUniqueName": "C:\\Users\\Maciej\\Desktop\\Zadanie-1\\PESEL\\PESEL\\PESEL.csproj",
       "projectName": "PESEL",
-      "projectPath": "C:\\Users\\Maciej\\Desktop\\zadania\\Zadanie-1\\PESEL\\PESEL\\PESEL.csproj",
+      "projectPath": "C:\\Users\\Maciej\\Desktop\\Zadanie-1\\PESEL\\PESEL\\PESEL.csproj",
       "packagesPath": "C:\\Users\\Maciej\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Maciej\\Desktop\\zadania\\Zadanie-1\\PESEL\\PESEL\\obj\\",
+      "outputPath": "C:\\Users\\Maciej\\Desktop\\Zadanie-1\\PESEL\\PESEL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

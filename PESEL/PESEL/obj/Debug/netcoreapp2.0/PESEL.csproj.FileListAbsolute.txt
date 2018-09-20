@@ -9,3 +9,14 @@ c:\Users\Maciej\Desktop\zadania\Zadanie-1\PESEL\PESEL\bin\Debug\netcoreapp2.0\PE
 c:\Users\Maciej\Desktop\zadania\Zadanie-1\PESEL\PESEL\bin\Debug\netcoreapp2.0\PESEL.pdb
 c:\Users\Maciej\Desktop\zadania\Zadanie-1\PESEL\PESEL\obj\Debug\netcoreapp2.0\PESEL.dll
 c:\Users\Maciej\Desktop\zadania\Zadanie-1\PESEL\PESEL\obj\Debug\netcoreapp2.0\PESEL.pdb
+C:\Users\Maciej\Desktop\Zadanie-1\PESEL\PESEL\bin\Debug\netcoreapp2.0\PESEL.deps.json
+C:\Users\Maciej\Desktop\Zadanie-1\PESEL\PESEL\bin\Debug\netcoreapp2.0\PESEL.runtimeconfig.json
+C:\Users\Maciej\Desktop\Zadanie-1\PESEL\PESEL\bin\Debug\netcoreapp2.0\PESEL.runtimeconfig.dev.json
+C:\Users\Maciej\Desktop\Zadanie-1\PESEL\PESEL\bin\Debug\netcoreapp2.0\PESEL.dll
+C:\Users\Maciej\Desktop\Zadanie-1\PESEL\PESEL\bin\Debug\netcoreapp2.0\PESEL.pdb
+C:\Users\Maciej\Desktop\Zadanie-1\PESEL\PESEL\obj\Debug\netcoreapp2.0\PESEL.csprojAssemblyReference.cache
+C:\Users\Maciej\Desktop\Zadanie-1\PESEL\PESEL\obj\Debug\netcoreapp2.0\PESEL.csproj.CoreCompileInputs.cache
+C:\Users\Maciej\Desktop\Zadanie-1\PESEL\PESEL\obj\Debug\netcoreapp2.0\PESEL.AssemblyInfoInputs.cache
+C:\Users\Maciej\Desktop\Zadanie-1\PESEL\PESEL\obj\Debug\netcoreapp2.0\PESEL.AssemblyInfo.cs
+C:\Users\Maciej\Desktop\Zadanie-1\PESEL\PESEL\obj\Debug\netcoreapp2.0\PESEL.dll
+C:\Users\Maciej\Desktop\Zadanie-1\PESEL\PESEL\obj\Debug\netcoreapp2.0\PESEL.pdb
